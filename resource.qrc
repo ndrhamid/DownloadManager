@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>icon/browse.png</file>
+        <file>icon/check.png</file>
+    </qresource>
+</RCC>
